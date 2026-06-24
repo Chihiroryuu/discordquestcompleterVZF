@@ -1,10 +1,22 @@
 # Discord Quest Helper
 
-> Complete Discord Quests faster, smarter, and easier.
+> 🚀 Free for everyone. Unlock VIP features starting from only Rp5.000/month.
 
-Discord Quest Helper is a browser extension designed to help users manage, monitor, and complete Discord Quests through a simple and user-friendly interface.
+Discord Quest Helper is a browser extension designed to help users manage, monitor, and organize Discord Quests through a simple and user-friendly interface.
 
-Built with simplicity and efficiency in mind, Discord Quest Helper helps users keep track of quest progress, organize active quests, and streamline their overall Discord Quest experience.
+Built with simplicity and efficiency in mind, Discord Quest Helper provides a cleaner way to track quest progress, manage active quests, and monitor activity without constantly navigating through Discord menus.
+
+---
+
+## 📸 Screenshots
+
+### ⚪ Free Edition
+
+![Free Edition](./assets/free.png)
+
+### 🟡 VIP Edition
+
+![VIP Edition](./assets/vip.png)
 
 ---
 
@@ -17,8 +29,8 @@ Built with simplicity and efficiency in mind, Discord Quest Helper helps users k
 * Support for multiple Discord Quest types
 * Lightweight and modern interface
 * Easy-to-use controls
-* Quest status notifications
 * Quest management dashboard
+* Quest status notifications
 * Regular updates and improvements
 
 ---
@@ -27,7 +39,7 @@ Built with simplicity and efficiency in mind, Discord Quest Helper helps users k
 
 Discord Quest Helper dibuat untuk membantu pengguna Discord yang sering mengikuti berbagai Quest dan ingin mengelolanya dengan lebih mudah.
 
-Daripada harus membuka banyak menu untuk memeriksa progres Quest satu per satu, Discord Quest Helper menyediakan dashboard yang lebih sederhana dan informatif sehingga semua informasi penting dapat dilihat dalam satu tempat.
+Daripada harus membuka banyak menu hanya untuk memeriksa progres Quest, extension ini menyediakan dashboard yang lebih sederhana dan informatif sehingga seluruh informasi penting dapat dilihat dalam satu tempat.
 
 ### Kenapa Menggunakan Discord Quest Helper?
 
@@ -39,15 +51,23 @@ Daripada harus membuka banyak menu untuk memeriksa progres Quest satu per satu, 
 
 ### Kenapa Upgrade ke VIP?
 
-VIP Edition ditujukan untuk pengguna yang menginginkan pengalaman yang lebih praktis dan efisien.
+VIP Edition ditujukan bagi pengguna yang menginginkan pengalaman yang lebih praktis dan efisien.
 
-Dengan VIP, pengguna mendapatkan akses ke fitur tambahan seperti Auto Queue, Turbo Mode, Quest History, Activity Logs, serta berbagai fitur eksklusif lainnya yang tidak tersedia pada versi Free.
+Dengan VIP, pengguna mendapatkan akses ke fitur tambahan seperti:
+
+* Unlimited Quest Processing
+* Turbo Mode
+* Auto Queue System
+* Quest History
+* Activity Logs
+* Priority Support
+* Early Access Features
 
 Dukungan dari pengguna VIP membantu pengembangan proyek ini agar terus mendapatkan pembaruan, peningkatan performa, dan fitur-fitur baru di masa mendatang.
 
 ---
 
-## 📦 Editions
+## 📦 Available Editions
 
 ### ⚪ Free Edition
 
@@ -56,7 +76,7 @@ Perfect for casual users who only need basic functionality.
 #### Included Features
 
 * Maximum **2 Quests every 3 days**
-* Manual execution (one click required for each quest)
+* Manual execution
 * Standard speed (**1x**)
 * Basic heartbeat system
 * Community support
@@ -111,7 +131,7 @@ Users can:
 * Track execution timestamps
 * Review activity logs
 * Monitor completion records
-* Analyze quest statistics
+* Analyze overall quest statistics
 
 This feature is available exclusively for VIP users.
 
@@ -119,11 +139,11 @@ This feature is available exclusively for VIP users.
 
 ## 💎 VIP Pricing
 
-### International Users
+### 🌍 International Users
 
 **$1 USD / Month**
 
-### Indonesian Users
+### 🇮🇩 Indonesian Users
 
 **Rp5.000 / Month**
 
